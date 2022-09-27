@@ -15,6 +15,10 @@ Express.js Mongoose ODM
 In order to use this application: This application does not have a front end so we use Insomnia to test our routes. To begin, we type npm start in the terminal and then go to Insomnia.
 ## Tests
 N/A
+## Video Links
+Pt.1 - https://drive.google.com/file/d/1IXslqJtFcx_tM-YC1xC82gx-Fbrk5sIc/view
+
+Pt.2 - https://drive.google.com/file/d/1zc_X5KU0efUu96vz2zqRl4TE0KH4E90Y/view
 ## Credits
 Guadalupe Rocha
 ## License
